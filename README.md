@@ -1,7 +1,7 @@
 # Clover
 Este es un pequeño programa que permite que el explorador de windows se abra con multiples ventanas en pestañas
 
-<img src="https://github.com/RojeruSan/JTable-Style-Metro-JAVA-v1.0/blob/RojeruSan/Captura%20de%20pantalla%20(28).png">
+<img src="https://github.com/RojeruSan/Clover/blob/master/Captura%20de%20pantalla%20(28).png">
 
 Puedes ayudarme con tus donaciónes para seguir creciendo, GRACIAS.<br>
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JLWEAETTE3H28" target="_blank">
